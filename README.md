@@ -4,9 +4,9 @@ Game in unity for GMTK game jam
 Also to view in unity use Unity version 2021.3.6f1
 
 Credits to:-
-Malhar Choure 
-Tejas Bendkule
-Ayush Gupta
+* Malhar Choure 
+* Tejas Bendkule
+* Ayush Gupta
 
 The rules are simple:
 * You play as the dice.
